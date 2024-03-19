@@ -1,0 +1,127 @@
+.Unbabel{
+    height: 400px;
+    background-color: lightgray;
+    color: black;
+    margin-top: 50px;
+}
+.Unbabel img{
+width: 50%;
+margin-top: 80px;
+}
+.Unbabel h1{
+    margin-top: 80px;  
+}
+.food{
+    font-size: xxx-large;
+}
+
+.union h1{
+    margin-top: 100px;  
+    font-size: xxx-large;  
+}
+.union p{
+    font-size: large;
+    font-weight: 200;
+}
+
+
+.workflow{
+    margin-top: 200px;
+}
+
+
+.workflow img{
+width: 100%;
+height: 500px;
+}
+.workflow h1{
+    font-size: xxx-large;
+    margin-top: 100px;
+}
+.workflow p{
+    font-size: x-large;
+    text-align: left;
+}
+.yummy{
+    margin-top: 200px;
+}
+
+
+.yummy img{
+width: 100%;
+height: 500px;
+margin-left: 200px;
+}
+.yummy h1{
+    font-size: xxx-large;
+    margin-top: 100px;
+}
+.yummy p{
+    font-size: x-large;
+    text-align: left;
+}
+
+
+
+.quality{
+padding: 200px;
+}
+
+
+.button{
+    background-color: orange;
+}
+
+.big-one{
+background-image: url(./bootstrap-images/Background-Featured-Integration-02.svg);
+}
+
+.boss img{
+    background-color: white;
+    margin-top: 20px;  
+    width: 180px;
+    height: 150px;
+    margin-left: 320px;
+
+}
+.freshdesk{
+    background-color: white;
+    margin-top: 20px;  
+    width: 180px;
+    height: 150px;
+    margin-left: 80px;
+}
+.security{
+    margin-top: 100px
+}
+
+
+.customers{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.reviews{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 400px; 
+    font-size: x-large;
+}
+.love{
+  margin-left: 250px;  
+}
+
+.screen{
+    margin-top: 100px;
+}
+.speak{
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 790px;
+    border: none;
+    margin-top: 100px;
+}
+.user{
+   text-align: center;
+    margin-top: 100px;
+}
